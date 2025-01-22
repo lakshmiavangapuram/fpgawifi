@@ -2,4 +2,5 @@ Author name:FPGA WIFI
 Channel name: Sqaure
 Profession  : Developer
 Technology : FPGA
+Education : M.Tech
 Branch Name : Design
